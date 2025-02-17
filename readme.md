@@ -1,6 +1,6 @@
-## Toggle Display Script
+# Toggle Display Script
 
-> Dependencies
+## Dependencies
 
 - Module [DisplayConfig](https://www.powershellgallery.com/packages/DisplayConfig/1.0.4)
 
